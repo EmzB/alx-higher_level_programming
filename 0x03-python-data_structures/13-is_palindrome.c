@@ -15,6 +15,5 @@ int is_palindrome(listint_t **head)
     //check the first to the last and, second to second last ....
     //return false if one check was False
     //return true at the end (if all passed the checks)
-
-    return (n);
+  return (n);
 }
