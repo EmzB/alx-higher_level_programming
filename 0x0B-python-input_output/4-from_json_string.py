@@ -4,5 +4,6 @@ import json
 
 
 def from_json_string(my_str):
-    """from json string"""
-    return json.loads(my_str)obj represented by JSON"""convert JSON string obj"""
+    """convert JSON string obj"""
+
+    return json.loads(my_str)obj represented by JSON
